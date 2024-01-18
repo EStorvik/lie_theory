@@ -1,0 +1,16 @@
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: none;
+    max-width: 200px;
+    word-wrap: break-word;
+}
